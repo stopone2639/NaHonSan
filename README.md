@@ -139,7 +139,7 @@ SNS 서비스 인만큼 사용자를 팔로우할 수도 있습니다.
 
 # 🍯 프로젝트 회고
 > K(Keep)P(Prolbem)T(Try)방법론 기반 팀원별 프로젝트에 대한 회고록입니다.
-notion link로 대체 : https://tiny-august-9a4.notion.site/33c3de62ddb948f5b7b0d414ebc5cb24
+> notion link로 대체 : https://tiny-august-9a4.notion.site/33c3de62ddb948f5b7b0d414ebc5cb24
 ## Front-End
 |팀원|느낀점|
 |-----|---|
