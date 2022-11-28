@@ -135,7 +135,7 @@ SNS 서비스 인만큼 사용자를 팔로우할 수도 있습니다.
 
 # 🍯 프로젝트 산출물
 > 깃헙 외부에 있는 나혼자잘산다 프로젝트 관련 산출물 입니다.
-
+<br> https://tiny-august-9a4.notion.site/Team-3af45678edb34ccb934a15affec43cea
 
 # 🍯 프로젝트 회고
 > K(Keep)P(Prolbem)T(Try)방법론 기반 팀원별 프로젝트에 대한 회고록입니다.
